@@ -1,0 +1,16 @@
+6 Asim 6543.65
+4 Ahmad 5643.88
+9 Tariq 1233.57
+2 Shahid 1233.95
+12 Aman 5563.39
+8 Ejaz 5643.27
+5 Asif 2313.21
+7 Asim 2343.05
+10 Hamid 4322.98
+1 Umair 1300.98
+3 Hassan 4323.25
+5 Syed 6783.97
+11 Hassan 3423.51
+6 Imran 443.35
+4 Afnan 453.19
+6 Junaid 653.75
