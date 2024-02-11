@@ -1,0 +1,2 @@
+newer
+Over the years, many programmers learned the programming methodology called structured programming. You will learn structured programming and an exciting newer methodology, object-oriented programming. Why do we teach both? Object orientation is the key programming methodology used by programmers today.

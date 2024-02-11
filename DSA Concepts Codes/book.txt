@@ -1,0 +1,4 @@
+93842 Statistical Decision Theory Pratt,John 350
+61275 Slaughterhouse Five Vonnegut,Kurt 1000 
+85938 Making Software Oram,Andy 150
+93844 Orientalism Said,Edward 123
